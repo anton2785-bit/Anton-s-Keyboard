@@ -20,14 +20,16 @@
 
 * The PCB was redone 1 time, so that it was better with the lenght of traces and minimising the resistance.
 
-<img width="549" height="359" alt="Top layer PCB" src="https://github.com/user-attachments/assets/a5e138e2-9f1b-4b0a-9a14-81833a1d4b10" />
-<img width="503" height="317" alt="Back layer PCB" src="https://github.com/user-attachments/assets/6f6a4216-8cc6-44c0-a2cf-9d70ea1747a9" />
+<img width="549" height="309" alt="Top layer PCB" src="https://github.com/user-attachments/assets/a5e138e2-9f1b-4b0a-9a14-81833a1d4b10" />
+<img width="553" height="317" alt="Back layer PCB" src="https://github.com/user-attachments/assets/6f6a4216-8cc6-44c0-a2cf-9d70ea1747a9" />
 
 ---
 # 3D case
 
 * The case isnt perfect, but for now it will work. When i get all of the parts for the keyboard and then I will have the ability to measuer all of the things I need to make the case more percise. 
 <img width="524" height="337" alt="Keyboard case" src="https://github.com/user-attachments/assets/19eef4c0-9c37-41c9-b45b-ebc86add646d" />
+<img width="551" height="429" alt="Screenshot 2026-04-26 173829" src="https://github.com/user-attachments/assets/5e67a2db-9a46-4048-b381-af773a9a1a22" />
+
 
 * Note: The case will be 3d printed by my friend and cost free. But I will maka corections on the case once i gen the whole thing and i have the propper dimensions for the holes and the usb cable going towards the Microcontroller. 
 
